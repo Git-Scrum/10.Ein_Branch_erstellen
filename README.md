@@ -1,7 +1,6 @@
-# 10.Ein_Branch_erstellen
-### **Erst pull, dann push >> "Vermeide Konflikte - vermeide merge!"**
+### **10. Einen Branch erstellen >> "Programmcode in Teilaufgaben zerlegen"**
 
-#### **Video:**  [Erst pull, dann push - vermeide merge](https://maxeythschulede-my.sharepoint.com/:v:/g/personal/schwaiger_max-eyth-schule_de1/EUxFnsbUTodIvwP3eRwg8cUBFvwW9wCWQAZkF8RsNtRHuw?e=bDoi4Z) 🎞
+#### **Video:**  [Einen Branch erstellen](https://maxeythschulede-my.sharepoint.com/:v:/g/personal/schwaiger_max-eyth-schule_de1/EchAhHMpwphMsYZs8mK8ugEBb-jbvdDL476o4bYkEnopbQ?e=6crjny) 🎞
 
 1.  Erstelle als erste Teilnehmerin einen erklärenden Text zu dem oberen Video oder erstelle ein besseres Video zu dem aktuellen Thema.
 Helfe mit den Kurs immer aktuell zu halten! 👍
